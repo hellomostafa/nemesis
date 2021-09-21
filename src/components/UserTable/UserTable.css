@@ -1,0 +1,59 @@
+.MTableToolbar-root-5 {
+    padding-right: 8px;
+    color: white;
+    background: linear-gradient(45deg, #000850 0%, #000320 100%),
+    radial-gradient(100% 225% at 100% 0%, #FF6928 0%, #000000 100%),
+    linear-gradient(225deg, #FF7A00 0%, #000000 100%),
+    linear-gradient(135deg, #CDFFEB 10%, #CDFFEB 35%, #009F9D 35%, #009F9D 60%, #07456F 60%, #07456F 67%, #0F0A3C 67%, #0F0A3C 100%);
+    background-blend-mode: screen,
+    overlay,
+    hard-light,
+    normal;
+}
+.MTableToolbar-actions-8 {
+    color: white !important;
+}
+
+.MuiIconButton-root {
+    color: rgb(245, 245, 245) !important;
+    padding: 27px !important;
+    overflow: visible;
+    font-size: 11.5rem !important;
+}
+
+.MuiInputBase-root {
+    color: white !important;
+}
+.MuiTypography-h6 {
+    font-weight: 700;
+}
+
+tbody.MuiTableBody-root button {
+    color: rgba(28, 7, 7, 0.707) !important;
+    padding: 12px !important
+}
+.MuiInputBase-input {
+    color: black !important
+}
+
+
+.MuiTableCell-head {
+    background-color: #8891df !important; 
+    font-weight: 600 !important;
+    
+}
+
+.MuiTableRow-root:nth-child(even){
+    background: rgba(164, 183, 236, 0.418) !important;
+}
+.MuiTableRow-root:hover {
+    background-color: rgba(164, 183, 236, 0.515);
+   
+}
+
+.MTablePaginationInner-root-14 span {
+    color: #0F0A3C
+}
+div#mui-61072 {
+    color: black;
+}
